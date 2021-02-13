@@ -2,6 +2,7 @@
 testing out cvxgen
 
 Two masses are coupled via a spring-dashpot. By applying a force to one of the masses, are able to manipulate the state of the other mass. 
+
 Red = input force, Green = net force
 
 
